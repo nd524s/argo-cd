@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: investments-service
-          image: arsr319/finovra-investments-service:1.0.0
+          image: nikitakhodorovich/finovra-investments-service:1.0.0
           ports:
             - containerPort: 8000
           env:

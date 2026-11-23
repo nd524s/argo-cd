@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: loans-service
-          image: arsr319/finovra-loans-service:1.0.0
+          image: nikitakhodorovich/finovra-loans-service:1.0.0
           ports:
             - containerPort: 8000
           env:
