@@ -9,6 +9,6 @@ replicas:
     count: 2
 
 images:
-  - name: arsr319/finovra-dashboard
+  - name: nikitakhodorovich/finovra-dashboard
     newTag: "1.0.0"
 
